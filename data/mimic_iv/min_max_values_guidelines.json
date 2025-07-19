@@ -1,0 +1,22 @@
+{
+    "heart_rate": {
+        "min": 60.0,
+        "max": 130.0
+    },
+    "resp_rate": {
+        "min": 12,
+        "max": 30
+    },
+    "spo2": {
+        "min": 90.0,
+        "max": 100.0
+    },
+    "respiratory_rate_set": {
+        "min": 12,
+        "max": 30.0
+    },
+    "fio2": {
+        "min": 21.0,
+        "max": 41.0
+    }
+}
