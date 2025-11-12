@@ -1,0 +1,27 @@
+# Core
+numpy>=1.22
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.1
+matplotlib>=3.6
+seaborn>=0.12
+tqdm>=4.64
+ 
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.20
+ipywidgets>=8.0
+ 
+# Deep Learning / RL
+torch>=2.0
+# For Apple Silicon, you may prefer: torch==2.3.1; platform_system=="Darwin"
+d3rlpy>=2.6
+ 
+# Optional ehrMGAN
+tensorflow>=2.12
+ 
+# Data utils
+pyyaml>=6.0
+ 
+# Plotting extras
+plotly>=5.15
