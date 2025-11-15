@@ -1,6 +1,8 @@
 # Benchmarking Reinforcement Learning Algorithms for ICU Ventilator Settings: An Interpretable and Probabilistic Patient Environment for Doctor Agents
  
 This repository provides a benchmarking framework for offline and reinforcement learning algorithms to optimize invasive ventilator settings in the ICU using MIMIC-IV and eICU data.
+
+Supplementary materials are available in `supplementary.pdf`.
  
 ## Overview
 - **Data Extraction & Cohort Definition** (`cohort_features_sql.md`): SQL logic (MIMIC-IV focus) for building ventilation cohorts excluding DNR/DNI, age filtering, and assembling baseline + charttime features.
